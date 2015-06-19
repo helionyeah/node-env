@@ -23,4 +23,4 @@ A simple demo that prints the server's environment variables.
     stackato push -n --reset --as 'node-env'
 
     last modification: 2015-06-19 11:42:59
-testing build, 20150619121120906735
+testing build, 20150619121120906735testing build, 20150619121342107452
